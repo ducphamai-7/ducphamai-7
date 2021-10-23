@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ducphamai-7
+- 👀 I’m interested in running, coding, and playing the piano.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on a app. 
+- 📫 How to reach me at ducphamai7@gmai.com
